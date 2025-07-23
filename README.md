@@ -31,7 +31,7 @@ CSV (Comma Separated Values): Format for the raw dataset.
 ## DashBoard
 
 <img width="1341" height="766" alt="Screenshot 2025-07-23 211931" src="https://github.com/user-attachments/assets/1b68ee8f-87e5-4216-ae14-dc8408aeadb5" />
-----
+
 ## Learning Objectives
 
 The purpose of this project is to analyze sales data from a sample superstore using a Power BI dashboard. It aims to provide comprehensive insights into sales performance, profitability, customer segments, and regional trends to help identify key areas for business improvement.
