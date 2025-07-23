@@ -20,7 +20,7 @@ The core of this project is an interactive dashboard created using Power BI Desk
 ----
 ## Dataset
 
-"C:\Users\PMYLS\Documents\01-POWER BI DAX PROJECT\sample_superstore.xlsx"
+https://github.com/saqeeba-iqbal/SuperStore-Sales-Data-Analysis-Dashboard
 
 ----
 ## Tools and Technologies
